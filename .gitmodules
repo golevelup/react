@@ -1,0 +1,6 @@
+[submodule "packages/react-layout"]
+	path = packages/react-layout
+	url = git@github.com:golevelup/react-layout.git
+[submodule "packages/react-utils"]
+	path = packages/react-utils
+	url = git@github.com:golevelup/react-utils.git
